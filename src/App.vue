@@ -1,15 +1,11 @@
 <template>
     <div class="container">
-        <div class="row">
-            
-        </div>
+      <router-view></router-view>
     </div>
 </template>
 
 <script>
-
 </script>
 
 <style>
-  
 </style>
